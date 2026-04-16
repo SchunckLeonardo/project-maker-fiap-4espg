@@ -11,7 +11,7 @@
 **Check Point 2**
 
 ## Objetivo
-Este repositório apresenta a montagem de uma **caixa mecânica com engrenagens**, desenvolvida a partir da atividade prática proposta em aula. O objetivo foi montar o conjunto, medir suas principais peças com paquímetro, registrar o processo com fotos e modelar uma peça em 3D. O enunciado pede justamente um manual de montagem para um usuário leigo, acompanhado de medidas das peças principais e de uma peça modelada em 3D. :contentReference[oaicite:0]{index=0}
+Este repositório apresenta a montagem de uma **caixa mecânica com engrenagens**, desenvolvida a partir da atividade prática proposta em aula. O objetivo foi montar o conjunto, medir suas principais peças com paquímetro, registrar o processo com fotos e modelar uma peça em 3D. O enunciado pede justamente um manual de montagem para um usuário leigo, acompanhado de medidas das peças principais e de uma peça modelada em 3D.
 
 ---
 
@@ -26,12 +26,12 @@ Com base nas peças recebidas e nas fotos do grupo, o conjunto foi montado com o
 - 5 compartimentos móveis laterais;
 - estrutura circular de encaixe.
 
-Segundo o PDF da atividade, o kit inclui caixa inferior, tampa, engrenagens, eixos/encaixes e componentes móveis. :contentReference[oaicite:1]{index=1}
+Segundo o PDF da atividade, o kit inclui caixa inferior, tampa, engrenagens, eixos/encaixes e componentes móveis.
 
 ---
 
 ## Medidas principais das peças
-O PDF orienta medir espessura da tampa, diâmetro dos furos da caixa, diâmetro e comprimento dos eixos, largura da engrenagem, distância entre centros dos eixos e profundidade do alojamento interno. :contentReference[oaicite:2]{index=2}
+O PDF orienta medir espessura da tampa, diâmetro dos furos da caixa, diâmetro e comprimento dos eixos, largura da engrenagem, distância entre centros dos eixos e profundidade do alojamento interno.
 
 ### Tampa
 - **Espessura da tampa:** 2,3 mm
@@ -85,6 +85,8 @@ Nessa etapa, o grupo organizou os componentes para entender:
 - quais seriam encaixadas nas laterais.
 
 Esse passo foi importante para evitar erros de montagem e facilitar a visualização do mecanismo completo.
+
+![Image 1](/images/passo1-pecas-separadas.jpg)
 
 ---
 
