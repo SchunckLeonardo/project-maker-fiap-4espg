@@ -103,6 +103,8 @@ Nesta fase, ainda não havia fechamento da estrutura. O foco era apenas garantir
 
 **Observação:** se uma engrenagem ficar fora de posição, o sistema inteiro pode travar depois.
 
+![Image 2](/images/passo2-engrenagens-na-base.jpg)
+
 ---
 
 ## Passo 3 — Inserção do eixo central
@@ -117,6 +119,8 @@ Após inserir o eixo, foi necessário conferir se:
 - ele estava reto;
 - estava bem encaixado;
 - não pressionava as engrenagens de forma excessiva.
+
+![Image 3](/images/passo3-eixo-central.jpg)
 
 ---
 
@@ -133,6 +137,8 @@ Essa etapa exige atenção, porque se a tampa for colocada torta ou com pressão
 - o eixo pode perder alinhamento;
 - o mecanismo pode ficar travando.
 
+![Image 4](/images/passo4-fechamento.jpg)
+
 ---
 
 ## Passo 5 — Encaixe dos compartimentos laterais
@@ -147,6 +153,8 @@ O cuidado principal nessa etapa foi:
 
 Com isso, a estrutura externa começou a ganhar o formato final do projeto.
 
+![Image 5](/images/passo5-compartimentos.jpg)
+
 ---
 
 ## Passo 6 — Instalação da peça estrela superior
@@ -160,6 +168,8 @@ Nessa etapa:
 3. o grupo testou o giro da peça para verificar se o movimento era transmitido para as engrenagens.
 
 Esse componente também foi o escolhido para modelagem 3D.
+
+![Image 6](/images/passo6-montagem-final.jpg)
 
 ---
 
